@@ -9,7 +9,7 @@ public class Task {
         int alan2=alanHesapla(10);
         int alanlarToplami=alan1+alan2;
         System.out.println(alanlarToplami);
-       // System.out.println("Alan Toplamı = " + (alan1+alan2)); böyle de diyebilirim.
+       // System.out.println("Alan Toplamı = " + (alan1+alan2));
 
     }
 
