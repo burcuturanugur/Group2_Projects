@@ -1,4 +1,4 @@
-package day10kurtarma;
+package day10;
 
 public class Methods2 {
     public static void main(String[] args) {
