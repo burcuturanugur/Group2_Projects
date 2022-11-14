@@ -8,7 +8,8 @@ public class Main {
         // Arrays and Strings
 
         //Tüm arrayler, stack'te tanımlanır, heap'te tutulur.Heap'teki değere nesne denir.Temel tipler stack'te
-        // tanımlanıp stack'te tutulur. Referans tipler stack'te tanımlanıp heap'te oluşturulur.
+        //tanımlanıp stack'te tutulur. Referans tipler stack'te tanımlanıp heap'te oluşturulur.Heap'e erişim
+        // maliyetlidir.
 
         //int [] sayilar; bu şekilde yazılır.
         //ya da int numbers[]; ya da bu şekilde de yazılabilir ama pek kullanılmaz.
