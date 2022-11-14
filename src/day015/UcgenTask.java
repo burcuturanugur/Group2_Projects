@@ -2,7 +2,7 @@ package day015;
 
 import java.util.Scanner;
 
-public class UcgenAlaniTask {
+public class UcgenTask {
     public static void main(String[] args) {
 
         //Task 1: Kullanıcıdan bir geometrik şeklin iç açı (3 adet) değerlerini alınız. Verilen açılara göre;
