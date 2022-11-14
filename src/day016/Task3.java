@@ -11,8 +11,8 @@ public class Task3 {
         System.out.print("Pozitif sayı giriniz.");
         int sayi=input.nextInt();*/
 
-        int base=5;
-        int power=2;
+        int base=7;
+        int power=3;
         int r=1;
 
         for (int i = 1; i<=power; i++) {

@@ -11,12 +11,12 @@ public class Loops7 {
         System.out.println("Ortalama: " +toplam/10);*/
 
 
-       /* int toplam=0;
+        int toplam=0;
         double ort=0.0;
         for (int i = 1; i <=10; i++) {
             toplam=toplam+i;
         }
         ort=toplam/10.0;
-        System.out.println("Ortalama: " +ort);*/ //İki türlü de çözebiliriz.
+        System.out.println("Ortalama: " +ort); //İki türlü de çözebiliriz.
     }
 }

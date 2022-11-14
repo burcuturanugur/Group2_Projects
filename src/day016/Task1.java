@@ -11,14 +11,14 @@ public class Task1 {
         int sayi=input.nextInt();
 
         for (int i = 0; i <=10 ; i++) {
-           // System.out.println(sayi+"x"+i+"="+sayi*i);
+            System.out.println(sayi+"x"+i+"="+sayi*i);
 
         }
 
         //2. Yöntem:
 
 
-        //System.out.printf("%d%d=%d \n",num,i,numi);
+       //System.out.printf("%d%d=%d \n",num,i,numi);
 
 
 
