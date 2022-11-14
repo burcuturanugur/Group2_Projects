@@ -8,6 +8,7 @@ public class Task1 {
     public static void main(String[] args) {
         /*
         Klavyeden veri okumak üzere aşağıdaki istenilenleri gerçekleştiriniz.
+        Ana Menü
         1.Matematik işlemleri
         2.Alan ve çevre hesaplamaları
         3.Çıkış
