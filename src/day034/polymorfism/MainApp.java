@@ -45,4 +45,9 @@ public class MainApp {
 
 
     }
+    public static void sekilInfo(Kare kare){
+        System.out.println("-".repeat(20));
+        System.out.printf("Alan=%5.2f - Çevre= %5.2f\n",kare.alanHesapla(),kare.cevreHesapla());
+        System.out.println("-".repeat(20));
+    }
 }
